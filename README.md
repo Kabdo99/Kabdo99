@@ -1,2 +1,2 @@
-- Hi, I’m Abdullah, I’m interested in game design, computer graphics, and web development. I’m currently studying CS at The University of Arizona.
+- Hi, I’m Abdullah, I’m interested in game design, computer graphics, and web development. I graduate with a degree in computer science from the University of Arizona
 - 📫 reach me at askhamis10@gmail.com
